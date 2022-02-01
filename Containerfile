@@ -20,7 +20,6 @@ RUN dnf install -y ninja-build      \
  vulkan-devel               \
  glslc                      \
  vulkan-tools               \
- mesa-demos                 \
  allegro-devel              \
  allegro5-devel             \
  openal-soft-devel          \
